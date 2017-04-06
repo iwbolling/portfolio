@@ -1,0 +1,29 @@
+.navbar-top {
+  background-color: #4E1A9F;
+  margin: 0;
+  width: 100%; }
+
+.navbar-top h1 {
+  color: #FFF;
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-size: 54px;
+  text-align: center; }
+
+.navbar-top {
+  text-align: center;
+  width: 100%; }
+
+.navbar-top_links h2 {
+  color: #FFF;
+  display: inline-block;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 32px;
+  width: 20%; }
+
+* {
+  box-sizing: border-box; }
+
+.columns-container {
+  font-size: 0; }
+
+/*# sourceMappingURL=styles.css.map */
