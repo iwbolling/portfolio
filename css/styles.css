@@ -1,29 +1,92 @@
 .navbar-top {
   background-color: #4E1A9F;
   margin: 0;
+  margin-bottom: 16px;
   width: 100%; }
 
 .navbar-top h1 {
   color: #FFF;
   font-family: "Carrois Gothic SC", sans-serif;
   font-size: 54px;
+  margin: 0;
+  padding: 16px;
   text-align: center; }
 
 .navbar-top {
   text-align: center;
   width: 100%; }
 
-.navbar-top_links h2 {
+.navbar-top_links * {
   color: #FFF;
   display: inline-block;
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-size: 32px;
+  margin: 0;
+  padding: 16px;
+  text-decoration: none;
+  width: 25%; }
+
+.navbar-top_links h2 {
+  background-color: #6439A6;
+  border: 3px solid #805ABA;
+  padding: 13px; }
+
+.navbar-top_links a:hover {
+  background-color: #2B0762; }
+
+.section-about {
+  background: rgba(255, 255, 255, 0.75);
+  margin: auto;
+  margin-top: 32px;
+  padding: 16px;
+  width: 95%; }
+
+.section-about h3 {
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 16px; }
+
+.section-about h4 {
   font-family: "Alegreya Sans SC", sans-serif;
   font-size: 32px;
-  width: 20%; }
+  margin-top: 0;
+  margin-bottom: 8px; }
+
+.section-about p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 175%;
+  margin-top: 8px;
+  margin-bottom: 24px;
+  padding: 0; }
+
+.section-about ul {
+  margin: 0; }
+
+.section-about li {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  margin-bottom: 16px; }
+
+.project-block h4 {
+  font-size: 32px; }
+
+.project-block p {
+  font-size: 16px; }
 
 * {
   box-sizing: border-box; }
 
 .columns-container {
   font-size: 0; }
+
+body {
+  background-color: #222;
+  height: 100vh;
+  margin: 0; }
+
+#app-container {
+  margin: 0; }
 
 /*# sourceMappingURL=styles.css.map */

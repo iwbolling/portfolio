@@ -1,0 +1,40 @@
+.section-about{
+  background: rgba(255,255,255,.75);
+  margin: auto;
+  margin-top: 32px;
+  padding: 16px;
+  width: 95%;
+}
+
+.section-about h3{
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.section-about h4{
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 32px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.section-about p{
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 175%;
+  margin-top: 8px;
+  margin-bottom: 24px;
+  padding: 0;
+}
+
+.section-about ul{
+  margin: 0;
+}
+
+.section-about li{
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  margin-bottom: 16px;
+}
