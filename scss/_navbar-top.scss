@@ -6,13 +6,40 @@
   width: 100%;
 }
 
-.navbar-top h1{
+.navbar-top_title-n-social *{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.navbar-top_title-n-social h1{
   color: #FFF;
   font-family: "Carrois Gothic SC", sans-serif;
   font-size: 54px;
   margin: 0;
   padding: 16px;
   text-align: center;
+  width: 60%;
+}
+
+.icon-block{
+  width: 15%;
+}
+
+.icon-block_left{
+  text-align: left;
+}
+
+.icon-block_right{
+  text-align: right;
+}
+
+.navbar-top_title-n-social i{
+  color: #FFF;
+  font-size: 40px;
+}
+
+.navbar-top_title-n-social a{
+  margin: 8px;
 }
 
 // LINKS
